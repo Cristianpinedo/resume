@@ -1,9 +1,9 @@
-@import "generales.css";
-@import url(/dist/css/header.css);
-@import url(/dist/css/aboutme.css);
-@import url(/dist/css/skills.css);
-@import url(/dist/css/portfolio.css);
-@import url(/dist/css/contact.css);
+@import url(./header.css);
+@import url(./aboutme.css);
+@import url(./skills.css);
+@import url(./portfolio.css);
+@import url(./contact.css);
+@import url(./generales.css);
 
 /*! HTML5 Boilerplate v8.0.0 | MIT License | https://html5boilerplate.com/ */
 
