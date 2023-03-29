@@ -207,3 +207,7 @@ const applyGradient = async(url, callback) => {
 
 // RESULT
 applyGradient(gradientAPI, addBackgroundToUnderlines);
+
+
+
+
