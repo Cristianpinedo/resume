@@ -1,4 +1,4 @@
-@import url(/dist/css/generales.css);
+@import "generales.css";
 @import url(/dist/css/header.css);
 @import url(/dist/css/aboutme.css);
 @import url(/dist/css/skills.css);
